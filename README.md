@@ -57,7 +57,7 @@ The document spans 46 pages and covers a range of topics from C# basics to datab
    - **Example**: `SunShape` implements `IShape` and `IMovable` to calculate surface area and manage position.
 
 8. **Database Integration (Pages 32–37, 42–43)**
-   - **Resources**: Links to tutorials on SQL, ERD, and normalization (e.g., `https://bit.ly/3LRW9IZ`).
+   - **Resources**: Links to tutorials on SQL, ERD, and normalization.
    - **Tools**:
      - **ERDPlus**: For designing ER diagrams.
      - **SQL Server**: Download from Microsoft’s official site.
